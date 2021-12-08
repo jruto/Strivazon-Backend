@@ -1,0 +1,55 @@
+[
+    {"id":"rec6d6T3q5EBIdCfD",
+    "name":"3310",
+    "brand": "Nokia",
+    "description": "somthing longer",
+    "info":"The phone comes with a 2.40-inch display with a resolution of 240x320 pixels. Nokia 3310 4G comes with 256MB of RAM. The Nokia 3310 4G runs Android and is powered by a 1200mAh removable battery. As far as the cameras are concerned, the Nokia 3310 4G on the rear packs 2-megapixel camera.",
+    "image":"https://drop.ndtv.com/TECH/product_database/images/2152017124957PM_635_nokia_3310.jpeg?downsize=*:420&output-quality=80",
+    "price":"100",
+    "category": "smartphones"
+    },
+
+    {"id":"re1c6d6T3q5EBIdCfD",
+        "name":"3310",
+        "description": "somthing longer",
+        "brand": "Nokia",
+        "info":"The phone comes with a 2.40-inch display with a resolution of 240x320 pixels. Nokia 3310 4G comes with 256MB of RAM. The Nokia 3310 4G runs Android and is powered by a 1200mAh removable battery. As far as the cameras are concerned, the Nokia 3310 4G on the rear packs 2-megapixel camera.",
+        "image":"https://drop.ndtv.com/TECH/product_database/images/2152017124957PM_635_nokia_3310.jpeg?downsize=*:420&output-quality=80",
+        "price":"100",
+        "category": "smartphones"
+    },
+     
+    {"id":"r2ec6d6T3q5EBIdCfD",
+        "name":"3310",
+        "description": "somthing longer",
+        "brand": "Nokia",
+        "info":"The phone comes with a 2.40-inch display with a resolution of 240x320 pixels. Nokia 3310 4G comes with 256MB of RAM. The Nokia 3310 4G runs Android and is powered by a 1200mAh removable battery. As far as the cameras are concerned, the Nokia 3310 4G on the rear packs 2-megapixel camera.",
+        "image":"https://drop.ndtv.com/TECH/product_database/images/2152017124957PM_635_nokia_3310.jpeg?downsize=*:420&output-quality=80",
+        "price":"100",
+        "category": "smartphones"
+    },
+     
+    {   "id":"re3c6d6T3q5EBIdCfD",
+        "name":"3310",
+        "brand": "Nokia",
+        "description": "somthing longer",
+        "brand": "nokia",
+        "info":"The phone comes with a 2.40-inch display with a resolution of 240x320 pixels. Nokia 3310 4G comes with 256MB of RAM. The Nokia 3310 4G runs Android and is powered by a 1200mAh removable battery. As far as the cameras are concerned, the Nokia 3310 4G on the rear packs 2-megapixel camera.",
+        "image":"https://drop.ndtv.com/TECH/product_database/images/2152017124957PM_635_nokia_3310.jpeg?downsize=*:420&output-quality=80",
+        "price":"100",
+        "category": "smartphones"
+    },
+     
+    {   "id":"re4c6d6T3q5EBIdCfD",
+        "name":"3310",
+        "brand": "Nokia",
+        "description": "somthing longer",
+        "brand": "nokia",
+        "info":"The phone comes with a 2.40-inch display with a resolution of 240x320 pixels. Nokia 3310 4G comes with 256MB of RAM. The Nokia 3310 4G runs Android and is powered by a 1200mAh removable battery. As far as the cameras are concerned, the Nokia 3310 4G on the rear packs 2-megapixel camera.",
+        "image":"https://drop.ndtv.com/TECH/product_database/images/2152017124957PM_635_nokia_3310.jpeg?downsize=*:420&output-quality=80",
+        "price":"100",
+        "category": "smartphones"
+    }
+    
+    
+]
